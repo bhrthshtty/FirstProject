@@ -14,10 +14,6 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.BeforeTest;
 
-/**
- * Hello world!
- *
- */
 
 public class BaseFile {
 
